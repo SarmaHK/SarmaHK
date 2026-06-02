@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&lines=Curiosity+Fuels+My+Journey;Innovation+Shapes+My+Thinking;Impact+Defines+My+Destination" />
 
-<img src="https://komarev.com/ghpvc/?username=SarmaHK&label=Profile%20Views&color=D4AF37&style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarmaHK&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" />
+</p>
 
 </div>
 
