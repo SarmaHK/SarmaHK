@@ -23,7 +23,7 @@
 ---
 
 ```javascript
-const sarma = {
+const SarmaHK = {
   role: "Developer",
   identity: "Explorer",
   mindset: "Innovator",
@@ -38,6 +38,7 @@ const sarma = {
     "Full Stack Development",
     "Artificial Intelligence",
     "System Design",
+    "Internet of Things",
     "Open Source",
     "Building Impactful Products"
   ],
@@ -45,11 +46,4 @@ const sarma = {
   motto: "Learning • Creating • Growing"
 };
 ```
-
-<div align="center">
-
-### ⚡ Learning • Creating • Growing
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:D4AF37&section=footer"/>
