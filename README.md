@@ -1,16 +1,52 @@
-## Hi there 👋
+````html
+<div align="center">
 
-<!--
-**SarmaHK/SarmaHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D4AF37,100:000000&section=header"/>
 
-Here are some ideas to get you started:
+# ⚜️ Welcome To My Digital Workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SARMA HK
+
+### Developer • Explorer • Innovator
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&lines=Curiosity+Fuels+My+Journey;Innovation+Shapes+My+Thinking;Impact+Defines+My+Destination" />
+
+<br>
+
+> ### 🖤 Curiosity Fuels My Journey.
+>
+> ### 💡 Innovation Shapes My Thinking.
+>
+> ### 🚀 Impact Defines My Destination.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+```javascript
+const sarma = {
+    title: "Developer • Explorer • Innovator",
+    philosophy: [
+        "Curiosity Fuels My Journey",
+        "Innovation Shapes My Thinking",
+        "Impact Defines My Destination"
+    ],
+    currentFocus: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "System Design",
+        "Building Impactful Products"
+    ]
+};
+````
+
+<div align="center">
+
+### ⚡ Learning • Creating • Growing
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:D4AF37&section=footer"/>
+
+```
+```
